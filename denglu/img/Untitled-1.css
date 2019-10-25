@@ -1,0 +1,119 @@
+#wrapper{
+    width:600px;
+    margin: auto;
+    height: 500px;
+    background-color: white;
+    margin-top: 125px;
+    border-color:grey;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 3px;
+}
+.header{background-color: whitesmoke;
+    float: top;
+    width:600px;
+    height: 75px;
+    color: rgb(112, 114, 114);
+    font-size: 23px;
+    font-weight: bold;
+    margin-top: 0px;
+    margin-bottom: 0px
+}
+.title{
+    margin-top: 0px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.right{float: right;
+    margin-right: 14px;
+    margin-top: 28px;
+}
+.main{width: 300px;
+    margin: auto;
+    height: 60px;
+}
+.one{font-weight:bolder;
+    margin-top: 30px;
+}
+input{width: 300px;
+height: 23px;
+border: 1px solid #ccc;
+padding: 1px 0px;
+border-radius: 3px;
+}
+p{margin-bottom: 7px
+}
+.two{font-weight: bolder;
+}
+.important{float: left;
+}
+.iimportant{float: right;
+   color: rgb(15, 170, 15) ;
+   margin-top: 15px;
+   font-weight: normal;
+   text-decoration: none
+}
+.oimportant{text-decoration: none;
+    color: rgb(15, 170, 15);
+    font-weight: normal;
+    display: block;
+    margin-top: 12px
+}
+.button{width: 300px;
+    background-color: rgb(2, 146, 2);
+    height: 30px;
+    color: white;
+    margin-top: 10px;
+    border: 0;
+    border-radius: 3px;
+    font-size: 16px
+}
+.lline{
+    width:300px;
+    height:36px;
+    line-height:50px;
+    text-align:center;
+}
+.line-left {display:inline-block;
+    width:102px;
+    border-top:1px solid #cccccc;
+    vertical-align:5px;  
+}
+.line-right{display:inline-block;
+    width:92px;
+    border-top:1px solid #cccccc;
+    vertical-align:5px; 
+}
+.text{color: grey
+}
+#picture{width: 300px;
+    margin: auto;
+    padding-top: 10px; 
+    height: 35px;
+}
+img{height: 30px;
+    width: 30px
+}
+.new{width: 300px;
+    background-color:white;
+    height: 30px;
+    color:gray;
+    margin-top: 10px;
+    border-radius: 3px;
+    font-size: 16px;
+    border: 1px solid grey
+}
+.buttom{width: 300px;
+    height: 100px;
+}
+.footer{display: block;
+    font-size: 14px;
+    margin-top: 0px;
+    color: gray
+}
+.a{text-decoration: none;
+    color: green
+}
+.b{text-decoration: none;
+    color: green
+}
